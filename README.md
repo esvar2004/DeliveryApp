@@ -1,16 +1,13 @@
 # DeliveryApp
 We're creating our delivery application.
 
-Food Recommendation System
+# Food Recommendation System
+
 We’re attempting to create a personalized food recommendation system that leverages recommendations based not only on popular choices within the individual’s area but certain characteristics that are more appealing to them as well. This goes beyond simply accounting for preference of cuisine or high-rated restaurants as it considers the features of restaurants they’ve already visited in the past to come up with more accurate recommendations. Ultimately, we’re trying to improve the quality of the recommendations offered, so that it doesn’t take too long for people to find a restaurant worth their time.
 
 This recommendation system is available as mobile application as well as a web extension.
 
-Django & React:
-https://www.youtube.com/watch?v=kfpY5BsIoFg&list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60&index=7
-
-
-Timeline:
+# Timeline:
 March - April 2024:
 * Use React.js for front-end & Django for back-end
 Selecting Food/Restaurants from drop-down menu (Connect to Google to get the list of restaurants that exist in Singapore)
@@ -32,20 +29,20 @@ Once the user clicks on the offer that they want to use, redirect them to that a
 The selected item gets added to the cart 
 
 
-April - May 2024:
+# April - May 2024:
 
 
 
-May - June 2024:
+# May - June 2024:
 
 
 
-Project End - June 2024
+# Project End - June 2024
 
 
 
 
- Features to Add:
+# Features to Add:
 GAI chatbot specialized in food
 Take a general-purpose LLM (perhaps one that’s already been customized for food) and use instruction fine-tuning to guide the model to provide accurate responses to the user’s queries.
 We’ll most likely have to generate these instructions and update the model weights for our task.
